@@ -246,5 +246,11 @@
        "github" : "RP2025",
        "twitter" : "philomath128"
 
+    },{
+	    "name": "Rohit Pandey",
+	    "github": "rohitPandey469",
+	    "linkedin": "rohit-pandey-2500b6215",
+	    "portfolio": "https://dev-portfolio-rohitpandey469-1.netlify.app",
+	    "description": "A full stack developer with the MERN stack"
     }
 ]
